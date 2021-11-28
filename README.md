@@ -10,7 +10,7 @@ Link para o Dataset utilizado: [Heart Failure Clinical Records](https://archive.
 
 ## Organização do Repositório ##
 
-* Todo o código do trabalho está incluso no arquivo do Google Colab disponibilizado: -[colab] https://colab.research.google.com/drive/1iiNBrrqnk7kMhK9MtkmYZix7Vs-VM8jD?usp=sharing
+* Todo o código do trabalho está incluso no arquivo do Google Colab disponibilizado: - [colab] (https://colab.research.google.com/drive/1iiNBrrqnk7kMhK9MtkmYZix7Vs-VM8jD?usp=sharing)
 
 * Atenção para as instuções de execução: 
 ```
@@ -25,3 +25,5 @@ Os Testes estão dividos de acordo com a seguinte hierarquia:
   Dentro de cada uma das subseções existem outras 3 subseções: Execução do DBSCAN, K-Means e Ward
 Ao executar uma seção inteira são executados todos os testes dentro dela
 ```
+
+*Artigo mencionado no trabalho e utilizado para teste de conjunto de atributos [[1]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5/tables/2)
