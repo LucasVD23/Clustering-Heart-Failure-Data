@@ -21,8 +21,11 @@ O colab possui seções com cada etapa do trabalho
 Os Testes estão dividos de acordo com a seguinte hierarquia:
 
   2 Primeiras seções: Teste com todos os atributos/Testes com atributos do artigo
-  Dentro de cada seção existem duas subseções: Validação Externa e Validação Interna
-  Dentro de cada uma das subseções existem outras 3 subseções: Execução do DBSCAN, K-Means e Ward
+  
+    Dentro de cada seção existem duas subseções: Validação Externa e Validação Interna
+    
+      Dentro de cada uma das subseções existem outras 3 subseções: Execução do DBSCAN, K-Means e Ward
+      
 Ao executar uma seção inteira são executados todos os testes dentro dela
 ```
 
