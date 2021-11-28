@@ -26,4 +26,4 @@ Os Testes estão dividos de acordo com a seguinte hierarquia:
 Ao executar uma seção inteira são executados todos os testes dentro dela
 ```
 
-*Artigo mencionado no trabalho e utilizado para teste de conjunto de atributos [[1]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5/tables/2)
+* Artigo mencionado no trabalho e utilizado para teste de conjunto de atributos [[1]](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5#Sec2)
